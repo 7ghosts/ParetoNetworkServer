@@ -210,7 +210,7 @@
                 body: '',
                 hardwareAvailable: false,
                 content: '',
-                priority: 2, //this is default priority and should be defined somewhere
+                priority: 1, //this is default priority and should be defined somewhere
                 title: '',
                 maxTokens: 1,
                 blockChainAddress: '',
